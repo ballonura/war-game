@@ -1,7 +1,7 @@
 # War Game
 
 ```bash
-https://mobile-todo-app.vercel.app/
+https://war-game.vercel.app/
 
 ```
 
